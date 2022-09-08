@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F2F2F2;
+}
+
+header {
+    background-color: rgb(181, 113, 255);
+    color: white;
+    font-size: xx-large;
+    padding: 40px 20px;
+    margin-bottom: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.teamMemberContainer {
+    margin: 10px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.body {
+    background-color: #CCCCCC;
+    padding: 5px 0;
+}
+
+.body > div {
+    padding: 10px 20px;
+}
+
+.header {
+    background-color: rgb(181, 113, 255);
+    padding: 20px;
+    color: white;
+}
+

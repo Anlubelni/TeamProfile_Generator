@@ -1,0 +1,23 @@
+{
+  "name": "teamprofile-generator",
+  "version": "1.0.0",
+  "description": "Generates an HTML page with a profile on the team based on inputs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anlubelni/TeamProfile_Generator.git"
+  },
+  "author": "Anlubelni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anlubelni/TeamProfile_Generator/issues"
+  },
+  "homepage": "https://github.com/Anlubelni/TeamProfile_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}
